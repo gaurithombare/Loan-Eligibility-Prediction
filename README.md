@@ -4,9 +4,29 @@
 This project predicts whether a loan applicant is eligible or not using Logistic Regression. The model is trained on historical data of applicants, considering factors like income, credit history, loan amount, and more.
 
 ## 📊 Dataset
-- **Source:** Publicly available loan dataset (e.g., Kaggle, UCI Machine Learning Repository).  
-- **Features:** Applicant income, credit score, loan amount, employment status, marital status, number of dependents, etc.  
-- **Target Variable:** Loan eligibility status (Approved/Not Approved).  
+- **Source:** The dataset is provided in this repository under the `data` folder.
+- **Filename:** `train.csv`
+- **Features:**  
+  - `Loan_ID` – Unique identifier for each loan  
+  - `Gender` – Male/Female  
+  - `Married` – Marital status (Yes/No)  
+  - `Dependents` – Number of dependents  
+  - `Education` – Education level (Graduate/Not Graduate)  
+  - `Self_Employed` – Employment status (Yes/No)  
+  - `ApplicantIncome` – Income of the applicant  
+  - `CoapplicantIncome` – Income of the co-applicant  
+  - `LoanAmount` – Loan amount applied for  
+  - `Loan_Amount_Term` – Term of the loan (in months)  
+  - `Credit_History` – Credit history (1 = good, 0 = bad)  
+  - `Property_Area` – Property location (Urban/Rural/Semiurban)  
+  - `Loan_Status` – Loan approval status (Y/N)  
+
+- **Target Variable:**  
+  - `Loan_Status` (Y = Approved, N = Not Approved)  
+
+- **How to Use:**  
+  - The dataset is already included in this repository.  
+  - No need to download separately; just load `train.csv` in the notebook.  
 
 ## 🛠️ Methodology
 1. **Data Preprocessing** - Handling missing values, encoding categorical variables, scaling numerical data.  
