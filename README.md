@@ -100,10 +100,17 @@ Higher values for precision, recall, and F1-score indicate a better-performing m
 
 ---
 
+
+
+
+
+
 ### 🚀 Next Steps:
-- **Feature Engineering**: Improve the model by adding or transforming features.
-- **Hyperparameter Tuning**: Try adjusting parameters like regularization (`C` in `LogisticRegression`).
-- **Model Comparison**: Experiment with Decision Trees or Random Forests for better performance.
+- **Feature Engineering**: Further improve model performance by creating features like total income, income-to-loan ratio, or interaction terms.
+- **Hyperparameter Tuning**: Use techniques like GridSearchCV or RandomizedSearchCV to tune model parameters (e.g., `max_depth`, `n_estimators`, or `C` for Logistic Regression).
+- **Model Deployment**: Deploy the final Random Forest model using Streamlit, Flask, or any other tool to create a user interface.
+- **Cross-Validation**: Use k-fold cross-validation to ensure model generalization and avoid overfitting.
+
 ---
 > ✅ Final Model Used: **Random Forest Classifier**
 
