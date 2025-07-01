@@ -105,6 +105,8 @@ Higher values for precision, recall, and F1-score indicate a better-performing m
 - **Hyperparameter Tuning**: Try adjusting parameters like regularization (`C` in `LogisticRegression`).
 - **Model Comparison**: Experiment with Decision Trees or Random Forests for better performance.
 
+> ✅ Final Model Used: **Random Forest Classifier**
+
 
 ---
 🔍 **Developed by Surekha Thombare**
