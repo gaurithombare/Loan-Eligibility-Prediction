@@ -1,5 +1,4 @@
 # Loan Eligibility Prediction using Machine Learning
-- [Loan Eligibility Prediction - Model Performance](#loan-eligibility-prediction---model-performance)
 
 
 ## 📌 Project Overview
