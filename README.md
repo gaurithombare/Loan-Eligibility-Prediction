@@ -1,4 +1,5 @@
 # Loan Eligibility Prediction using Machine Learning
+- [Loan Eligibility Prediction - Model Performance](#loan-eligibility-prediction---model-performance)
 
 
 ## 📌 Project Overview
@@ -55,15 +56,6 @@ This project predicts whether a loan applicant is eligible or not using Logistic
 ## Loan Eligibility Prediction - Model Performance
 
 After training the Logistic Regression model, we evaluated its performance using key metrics:
-
-### 📊 Model Evaluation Metrics:
-- **Accuracy**: `0.76`
-- **Precision**: `0.75`
-- **Recall**: `0.95`
-- **F1 Score**: `0.84`
-- **Confusion Matrix**:
-- `[[18 25]
- [ 4 76]]`
 
 
 
