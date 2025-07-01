@@ -2,7 +2,8 @@
 
 
 ## 📌 Project Overview
-This project predicts whether a loan applicant is eligible or not using Logistic Regression. The model is trained on historical data of applicants, considering factors like income, credit history, loan amount, and more.
+This project predicts whether a loan applicant is eligible or not using various machine learning models including Logistic Regression, Decision Tree, and Random Forest. Models are evaluated based on accuracy, recall, precision, and F1-score.
+
 
 ## 📚 Table of Contents
 - [Project Overview](#-project-overview)
