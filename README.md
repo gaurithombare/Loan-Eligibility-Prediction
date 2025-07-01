@@ -64,7 +64,19 @@ After training the Logistic Regression model, we evaluated its performance using
 
 
 
+## 🔍 Model Analysis
 
+### 🎯 Logistic Regression:
+- **High recall (0.95)**: It correctly catches most approved loans.
+- But **25 false positives**, meaning it's approving many that should have been denied.
+- Might be **underfitting** a bit (due to the linear nature of the model).
+
+---
+
+### 🌳 Decision Tree & 🌲 Random Forest:
+- **Much better recall (0.9875)** and **lower false negatives (only 1)**.
+- Slightly better **accuracy** and **F1 score** than Logistic Regression.
+- **Same confusion matrix** — Random Forest and Decision Tree may be acting similarly due to **shallow tree depth** or **small dataset size**.
 
 
 
