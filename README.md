@@ -52,9 +52,16 @@ After training the Logistic Regression model, we evaluated its performance using
 
 
 
-## Model Performance Summary
 
-<pre> ## 📊 Model Performance Summary | Model | Accuracy | Precision | Recall | F1 Score | Confusion Matrix | |-------------------|----------|-----------|--------|----------|--------------------------| | Logistic Regression | 0.76 | 0.75 | 0.95 | 0.84 | [[18, 25], [4, 76]] | | Decision Tree | 0.789 | 0.76 | 0.99 | 0.86 | [[18, 25], [1, 79]] | | Random Forest | 0.789 | 0.76 | 0.99 | 0.86 | [[18, 25], [1, 79]] | </pre>
+
+## 📊 Model Performance Summary
+
+| Model                | Accuracy | Precision | Recall | F1 Score | Confusion Matrix         |
+|----------------------|----------|-----------|--------|----------|--------------------------|
+| Logistic Regression  | 0.76     | 0.75      | 0.95   | 0.84     | [[18, 25], [4, 76]]      |
+| Decision Tree        | 0.789    | 0.76      | 0.99   | 0.86     | [[18, 25], [1, 79]]      |
+| Random Forest        | 0.789    | 0.76      | 0.99   | 0.86     | [[18, 25], [1, 79]]      |
+
 
 
 
