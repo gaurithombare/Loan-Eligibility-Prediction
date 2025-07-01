@@ -1,8 +1,6 @@
 # Loan Eligibility Prediction using Machine Learning
 
 
-## 📌 Project Overview
-This project predicts whether a loan applicant is eligible or not using various machine learning models including Logistic Regression, Decision Tree, and Random Forest. Models are evaluated based on accuracy, recall, precision, and F1-score.
 
 
 ## 📚 Table of Contents
@@ -16,6 +14,8 @@ This project predicts whether a loan applicant is eligible or not using various 
 - [Next Steps](#-next-steps)
 
 
+## 📌 Project Overview
+This project predicts whether a loan applicant is eligible or not using various machine learning models including Logistic Regression, Decision Tree, and Random Forest. Models are evaluated based on accuracy, recall, precision, and F1-score.
 
 
 
