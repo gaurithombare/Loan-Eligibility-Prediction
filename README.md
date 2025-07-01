@@ -1,7 +1,23 @@
-# Loan Prediction using Logistic Regression
+# Loan Eligibility Prediction using Machine Learning
+
 
 ## 📌 Project Overview
 This project predicts whether a loan applicant is eligible or not using Logistic Regression. The model is trained on historical data of applicants, considering factors like income, credit history, loan amount, and more.
+
+## 📚 Table of Contents
+- [Project Overview](#-project-overview)
+- [Dataset](#-dataset)
+- [Methodology](#️-methodology)
+- [Model Evaluation](#loan-eligibility-prediction---model-performance)
+- [Model Performance Summary](#-model-performance-summary)
+- [Model Analysis](#-model-analysis)
+- [Interpretation](#-interpretation)
+- [Next Steps](#-next-steps)
+
+
+
+
+
 
 ## 📊 Dataset
 - **Source:** The dataset is provided in this repository under the `data` folder.
